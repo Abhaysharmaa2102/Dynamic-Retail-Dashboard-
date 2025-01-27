@@ -60,6 +60,8 @@ Contains details about sales representatives and their respective regions.
    - Total Profit = `=SUM(Profit)`.
    - Total Quantity = `=SUM(Quantity)`.
 4. Build a dynamic KPI table and use symbols to enhance visual appeal.
+   ![image](https://github.com/user-attachments/assets/5cbea6c3-4715-4925-a59e-c4fa532a05b7)
+
 
 ### 2. Sales and Profit Analysis
 **Objective:** Visualize sales and profit trends over time to identify patterns.
