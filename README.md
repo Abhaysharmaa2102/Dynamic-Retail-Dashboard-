@@ -154,6 +154,7 @@ This dashboard empowers retail businesses to:
 This repository includes:
 - Visual examples for each solved problem statement.
 - Snapshots of the final dashboard with all components.
-  ![image](https://github.com/user-attachments/assets/513d1829-af5d-496e-af80-e8869ca1d6f8)
+
+![image](https://github.com/user-attachments/assets/513d1829-af5d-496e-af80-e8869ca1d6f8)
 
 
