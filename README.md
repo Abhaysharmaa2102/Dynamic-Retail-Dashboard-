@@ -60,7 +60,8 @@ Contains details about sales representatives and their respective regions.
    - Total Profit = `=SUM(Profit)`.
    - Total Quantity = `=SUM(Quantity)`.
 4. Build a dynamic KPI table and use symbols to enhance visual appeal.
-   ![image](https://github.com/user-attachments/assets/5cbea6c3-4715-4925-a59e-c4fa532a05b7)
+
+![image](https://github.com/user-attachments/assets/5cbea6c3-4715-4925-a59e-c4fa532a05b7)
 
 
 ### 2. Sales and Profit Analysis
@@ -71,7 +72,8 @@ Contains details about sales representatives and their respective regions.
 2. Add Sales and Profit as values.
 3. Create a Line Chart to display trends for Sales and Profit.
 4. Apply slicers to filter by category, market, or region dynamically.
-   ![image](https://github.com/user-attachments/assets/7e8bba81-ac9f-4c2f-9a1f-2bc85321a773)
+
+![image](https://github.com/user-attachments/assets/7e8bba81-ac9f-4c2f-9a1f-2bc85321a773)
 
 
 ### 3. Category-Wise Profit
@@ -82,7 +84,8 @@ Contains details about sales representatives and their respective regions.
 2. Sort the table in descending order of Profit.
 3. Create a Bar Chart to visualize category-wise profit.
 4. Add slicers for interactivity.
-   ![image](https://github.com/user-attachments/assets/334c1175-9496-4855-ad9b-93f76d41a23f)
+
+![image](https://github.com/user-attachments/assets/334c1175-9496-4855-ad9b-93f76d41a23f)
 
 
 ### 4. Segment-Wise Sales Share (%)
@@ -93,7 +96,8 @@ Contains details about sales representatives and their respective regions.
 2. Calculate percentage share using `=Sales / Total Sales * 100`.
 3. Create a Pie Chart or Donut Chart to display the sales share.
 4. Add labels to show percentage values dynamically.
-   ![image](https://github.com/user-attachments/assets/5917c6c3-9a0a-42c3-aad5-38dc3e168ca7)
+
+![image](https://github.com/user-attachments/assets/5917c6c3-9a0a-42c3-aad5-38dc3e168ca7)
 
 
 ### 5. Sales by Country
@@ -103,7 +107,8 @@ Contains details about sales representatives and their respective regions.
 1. Create a Pivot Table with Country as rows and Sales as values.
 2. Sort the table in descending order of Sales.
 3. Use conditional formatting or a Heatmap to highlight top-performing countries.
-   ![image](https://github.com/user-attachments/assets/e97bab63-1e74-434c-8956-06e12559a39f)
+
+![image](https://github.com/user-attachments/assets/e97bab63-1e74-434c-8956-06e12559a39f)
 
 
 ### 6. Top 5 Subcategories
@@ -114,7 +119,8 @@ Contains details about sales representatives and their respective regions.
 2. Sort the table in descending order of Sales.
 3. Filter to display the top 5 Sub-Categories.
 4. Use a Column Chart to visualize results.
-   ![image](https://github.com/user-attachments/assets/98d9f2d8-10ed-4767-bc11-f516b1775ecb)
+
+![image](https://github.com/user-attachments/assets/98d9f2d8-10ed-4767-bc11-f516b1775ecb)
 
 
 ---
